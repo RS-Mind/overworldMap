@@ -1,3 +1,11 @@
+/** ***********************************************************
+    Jared Wood
+    9/21/18
+
+    Overworld Map
+    Library for rendering a grid and moving a player within it
+*********************************************************** **/
+
 #ifndef MAP
 #define MAP
 #include <vector>
